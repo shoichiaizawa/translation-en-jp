@@ -33,6 +33,10 @@ I listed up some English articles I want to translate. Please note that not all 
 - [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/ "Vincent Driessen's branching model") -- Git Flow, Vincent Driessen's branching model
 - [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows "Atlassian: Comparing Workflows") -- from Atlassian's Git Tutorial
 
+### About README
+
+- [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) -- A blog post by Tom Preston-Werner, a co-founder and the former president of GitHub
+
 ### Git commit ###
 
 - [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/ "How to Write a Git Commit Message")
