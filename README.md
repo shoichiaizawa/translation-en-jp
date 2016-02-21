@@ -13,7 +13,7 @@ Articles
 
 I listed up some English articles I want to translate. Please note that not all the articles are must-read articles.
 
-### GitHub ###
+### GitHub
 
 - [GitHub Guides](https://guides.github.com/ "GitHub Guides"):
     - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/ "GitHub Guides: Understanding the GitHub Flow")
@@ -28,7 +28,7 @@ I listed up some English articles I want to translate. Please note that not all 
     - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ "GitHub Guides: Mastering Markdown")
     - [Mastering Wikis](https://guides.github.com/features/wikis/ "GitHub Guides: Mastering Wikis")
 
-### Development Workflows ###
+### Development Workflows
 
 - [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/ "Vincent Driessen's branching model") -- Git Flow, Vincent Driessen's branching model
 - [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows "Atlassian: Comparing Workflows") -- from Atlassian's Git Tutorial
@@ -37,21 +37,22 @@ I listed up some English articles I want to translate. Please note that not all 
 
 - [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) -- A blog post by Tom Preston-Werner, a co-founder and the former president of GitHub
 
-### Git commit ###
+### Git commit
 
 - [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/ "How to Write a Git Commit Message")
 - [A Note About Git Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html "A Note About Git Commit Messages") -- a blog post by [Tim Pope](https://github.com/tpope/)
 
 ### Startup
 
+- [How to Start a Startup by Sam Altman: Recommended Readings, to be read before watching the lecture](http://startupclass.samaltman.com/lists/readings/) -- How to Start up is a series of video lectures, initially given at Stanford University in Fall 2014
 - [Startup = Growth](http://www.paulgraham.com/growth.html "Startup = Growth") -- a blog post by Paul Graham, a co-founder of Y Combinator
 - [Startup Playbook](http://playbook.samaltman.com/) -- written by Sam Altman, the President of Y Combinator
 
-### Task Management ###
+### Task Management
 
 - [How to be More Productive and Eliminate Time Wasting Activities by Using the “Eisenhower Box”](http://jamesclear.com/eisenhower-box)
 
-### Bloc Blog ###
+### Bloc Blog
 
 - [The Modern Computer Science Degree](https://blog.bloc.io/the-modern-computer-science-degree "Bloc Blog post on 2016-02-10")
 - [The Path to Mastery in Software Engineering](https://blog.bloc.io/the-modern-computer-science-degree "Bloc Blog post on 2016-01-20")
