@@ -54,5 +54,8 @@ I listed up some English articles I want to translate. Please note that not all 
 
 ### Bloc Blog
 
-- [The Modern Computer Science Degree](https://blog.bloc.io/the-modern-computer-science-degree "Bloc Blog post on 2016-02-10")
-- [The Path to Mastery in Software Engineering](https://blog.bloc.io/the-modern-computer-science-degree "Bloc Blog post on 2016-01-20")
+These may not be considered as must-read articles (and the primary purpose for their blog posts is a marketing purpose) but I personally found these interesting to read.
+
+- [The Modern Computer Science Degree](https://blog.bloc.io/the-modern-computer-science-degree/ "Bloc Blog post on 2016-02-10")
+- [The Path to Mastery in Software Engineering](https://blog.bloc.io/the-modern-computer-science-degree/ "Bloc Blog post on 2016-01-20")
+- [7 Traits of Effective Software Engineers](https://blog.bloc.io/7-traits-of-effective-software-engineers/ "Bloc Blog post on 2016-03-02")
